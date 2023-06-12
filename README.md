@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Senjin-Codes.
+- 👋 Hi, I’m @Senjin.
 - 👀 I’m interested in software development and game development.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects to build my skills.
