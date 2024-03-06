@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Senjin.
 - 👀 I’m interested in software development and game development.
-- 🌱 I’m currently learning python.
+- 🌱 Im trying to learn as much as I can !
 - 💞️ I’m looking to collaborate on projects to build my skills.
 - 📫 How to reach me.. Feel free to reach me here.
 
